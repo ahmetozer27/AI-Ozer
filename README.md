@@ -81,11 +81,4 @@ if __name__ == "__main__":
 
 ---
 
-## İletişim
-
-Ahmet Özer  
-ahmet@example.com
-
----
-
 © 2025 Ahmet Özer  
